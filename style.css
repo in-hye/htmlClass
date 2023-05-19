@@ -45,6 +45,12 @@ header button{
 header h1 button{
     font-size:2rem;
     font-weight:bold;   /*글꼴 굵기 진하게*/
+    color: white;
+}
+header h7 button{
+    font-size:2rem;
+    font-weight:bold;   /*글꼴 굵기 진하게*/
+    color: white;
 }
 header nav ul li button{
     font-size:1.2rem;
